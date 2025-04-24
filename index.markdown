@@ -8,6 +8,9 @@ title: Multiple Parson's Problems on One Page
 # Parsons Practice
 
 ## This is a test for the strcc test
+
+Silver medal challenge: Time of day
+
 <div id="strcc_unit9_mod6_s2-sortableTrash" class="sortable-code"></div> 
 <div id="strcc_unit9_mod6_s2-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
